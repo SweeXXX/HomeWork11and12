@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\bin\Debug\net6.0\TooMuch12.exe
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\bin\Debug\net6.0\TooMuch12.deps.json
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\bin\Debug\net6.0\TooMuch12.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\bin\Debug\net6.0\TooMuch12.dll
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\bin\Debug\net6.0\TooMuch12.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.dll
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\refint\TooMuch12.dll
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\TooMuch12.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\HomeWork11\TooMuch\obj\Debug\net6.0\ref\TooMuch12.dll
